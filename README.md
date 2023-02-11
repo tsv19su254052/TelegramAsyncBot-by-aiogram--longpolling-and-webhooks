@@ -1,4 +1,5 @@
 # TelegramBot-aiogram-longpolling-webhooks-AsyncBot
-Telegram Bot - Сводная наработка для изучения о опробования нового функционала с помощью телеграм-бота
+Telegram Bot - Сводная наработка для изучения и опробования нового функционала с помощью телеграм-бота
+Все в процессе
 
 Локальная ветка `myOwnDevelopingOnTheProcess_01` сопоставлена ветке `myOwnDevelopingOnTheProcess_01` на `GitHub`-е
