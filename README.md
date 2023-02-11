@@ -1,4 +1,3 @@
-# TelegramBot-aiogram-longpolling-webhooks-AsyncBot
 Telegram Bot - Сводная наработка для изучения и опробования нового функционала с помощью телеграм-бота
 Все из разных частей
 Все в процессе
